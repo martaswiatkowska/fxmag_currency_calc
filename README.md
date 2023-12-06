@@ -19,7 +19,7 @@ port=5432
 
 ### make migration
 
-`python manage.py migrate`
+`python3 manage.py migrate`
 
 ### seed data
 `python3 manage.py loaddata currency_rate`
@@ -36,7 +36,7 @@ port=5432
 
 ## Frontend
 
-### install packages
+### install packages in frontend folder
 `npm install`
 
 ### run server, from frontend folder run

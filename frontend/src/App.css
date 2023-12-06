@@ -37,6 +37,10 @@
   }
 }
 
+form {
+  display: block ruby;
+}
+
 .in-currency {
   margin-inline: 20px;
   display: flex;
